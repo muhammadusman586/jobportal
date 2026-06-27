@@ -47,7 +47,7 @@ Create a `.env` file in the project root (see `.env.example`):
 
 ```bash
 VITE_SUPABASE_URL=your-supabase-url
-VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
+VITE_SUPABASE_PUBLISHABLE_KEY=your-supabase-publishable-key
 VITE_CLERK_PUBLISHABLE_KEY=your-clerk-publishable-key
 ```
 
